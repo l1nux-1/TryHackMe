@@ -1,5 +1,5 @@
 ----- OFFENSIVE SECURITY INTRO -----
-"https://tryhackme.com/room/offensivesecurityintro"
+https://tryhackme.com/room/offensivesecurityintro
 
 Which of the following options better represents the process where you simulate a hackers actions to find vulnerabilities in a system?
 
