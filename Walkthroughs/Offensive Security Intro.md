@@ -1,6 +1,6 @@
 Offensive Security Intro | Walkthroughs | Difficulty = EASY | 
 
-![image alt](TryHackMe/Photos/1_zNXfXAUNRF8OGXMM31J9GQ.png)
+![image alt](../Photos/1_zNXfXAUNRF8OGXMM31J9GQ.png)
 
 TASK 1 | What is Offensive Security?
 
