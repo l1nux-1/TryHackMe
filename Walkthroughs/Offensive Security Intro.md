@@ -27,6 +27,7 @@ click on the Start Machine button below.
 Start Machine
 
 ![image alt](../Photos/1_9RePwHq1m6UWBfsSZYJqdA.webp)
+
 ![image alt](../Photos/1_7inoH5cQlDHPEDlb9y5_-w.webp)
 
 Step 1: Open the Terminal
@@ -39,6 +40,30 @@ Gobuster scans websites for hidden admin or sensitive pages that may be publicly
 
 ```bash
 gobuster -u http://fakebank.thm -w wordlist.txt dir 
+```
+
+The command will run and show you an output similar to this:
+
+```bash
+ubuntu@tryhackme:~/Desktop$ gobuster -u http://fakebank.thm -w wordlist.txt dir
+
+=====================================================
+Gobuster v2.0.1                    OJ Reeves (@TheColonial)
+=====================================================
+[+] Mode         : dir
+[+] Url/Domain   : http://fakebank.thm/
+[+] Threads      : 10
+[+] Wordlist     : wordlist.txt
+[+] Status codes : 200,204,301,302,307,403
+[+] Timeout      : 10s
+=====================================================
+2024/05/21 10:04:38 Starting gobuster
+=====================================================
+/images (Status: 301)
+/bank-transfer (Status: 200)
+=====================================================
+2024/05/21 10:04:44 Finished
+=====================================================
 ```
 
 
