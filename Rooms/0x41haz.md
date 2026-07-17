@@ -1,5 +1,0 @@
---TASK 1--
-
-What is the password?
-
-"THM{2@@25$gfsT&@L}"

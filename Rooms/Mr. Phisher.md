@@ -1,5 +1,0 @@
---TASK 1--
-
-Uncover the flag in the email attachment!
-
-"flag{a39a07a239aacd40c948d852a5c9f8d1}"
