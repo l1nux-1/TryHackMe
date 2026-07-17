@@ -26,5 +26,7 @@ click on the Start Machine button below.
 
 Start Machine
 
+![image alt](../Photos/1_9RePwHq1m6UWBfsSZYJqdA.webp)
+
 
 
