@@ -37,8 +37,9 @@ The terminal (command line) lets users interact with the system without a GUI. O
 Step 2: Use Gobuster to Find Hidden Pages
 Gobuster scans websites for hidden admin or sensitive pages that may be publicly accessible due to misconfiguration or human error, potentially exposing critical functions or data.
 
-'''text
-gobuster -u http://fakebank.thm -w wordlist.txt dir '''
+'''bash
+gobuster -u http://fakebank.thm -w wordlist.txt dir 
+'''
 
 
 
