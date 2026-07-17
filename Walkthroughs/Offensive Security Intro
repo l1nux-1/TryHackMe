@@ -1,30 +1,30 @@
 Offensive Security Intro | Walkthroughs | Difficulty = EASY | 
 
------  TASK 1 -----
+![image_alt](https://github.com/l1nux-1/TryHackMe/blob/96f9dd95cb914d62fb1cd670e1d3d8b8fdf880ef/Photos/1_zNXfXAUNRF8OGXMM31J9GQ.webp)
 
-Beginning Your Learning Journey
+TASK 1 | What is Offensive Security?
 
-In this TryHackMe lesson, you will be guided through hacking your first website in a legal and safe environment. 
-The goal is to show you how an ethical hacker operates.
+What is Offensive Security?
+“To outsmart a hacker, you need to think like one.”
+Offensive Security is the practice of legally and ethically simulating hacking activities to discover vulnerabilities in systems. 
+It involves breaking into systems, exploiting bugs, and finding loopholes — all with the goal of strengthening security.
 
-But before we do that, let's review by answering the questions below. Type your answer in the text box after the question 
-and click the "Submit" button. When you're done, proceed to Task 2.
+— Answer the question below —
 
--- Answer the questions below --
+Question 1: Which of the following options better represents the process where you simulate a hacker’s actions to find vulnerabilities in a system ?
 
-Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?
+> Offensive Security
 
-Offensive Security
-Defensive Security
+> Defensive Security
 
-ANS: Offensive Security
+Answer: Offensive Security
 
------ TASK 2 -----
+TASK 2 | Hacking your first machine
 
-Your screen should be split in half, showing this content on the left and the newly launched machine on the right.
-If you hide it later, you can always click on the Show Split View button at the top to display it again.
-You should see a browser window showing the website below:
+In this room, we have prepared a fake bank application called Fakebank that you can safely hack. To start this machine, 
+click on the Start Machine button below.
 
+Start Machine
 
 
 
