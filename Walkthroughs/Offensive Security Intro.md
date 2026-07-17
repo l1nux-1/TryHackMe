@@ -65,6 +65,12 @@ Gobuster v2.0.1                    OJ Reeves (@TheColonial)
 2024/05/21 10:04:44 Finished
 =====================================================
 ```
+In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
+
+You should have found a secret bank transfer page that allows you to transfer money between bank accounts (/bank-transfer). Type the hidden page into the FakeBank website using the browser's address bar.
+
+![image alt](../Photos/1_p97mnIn4GX2r5QwCeXURrQ.webp)
+
 
 
 
