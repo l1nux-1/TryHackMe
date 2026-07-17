@@ -91,7 +91,7 @@ Penetration Tester: Finds security weaknesses in products.
 Red Teamer: Simulates attacks to test defenses.
 Security Engineer: Designs and manages security systems to prevent attacks.
 
-![image alt](../https://github.com/l1nux-1/TryHackMe/blob/d530d3d5f398b1258777f761b6b0d568bc8a60d6/Photos/1_GCTW_0CNTNmyL6XkxEQznw.webp)
+![image alt](../Photos/1_GCTW_0CNTNmyL6XkxEQznw.webp)
 
 Tryhackme | Offensive Security Intro !!! is done and dusted. I hope you liked the write-ups. If you did, Please give a positive response and drop a follow :)
 
