@@ -1,0 +1,27 @@
+Offensive Security Intro | Walkthroughs | Difficulty = EASY | 
+
+-----  TASK 1 -----
+
+Beginning Your Learning Journey
+
+In this TryHackMe lesson, you will be guided through hacking your first website in a legal and safe environment. 
+The goal is to show you how an ethical hacker operates.
+
+But before we do that, let's review by answering the questions below. Type your answer in the text box after the question 
+and click the "Submit" button. When you're done, proceed to Task 2.
+
+-- Answer the questions below --
+
+Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?
+
+Offensive Security
+Defensive Security
+
+ANS: Offensive Security
+
+----- TASK 2 -----
+
+Your screen should be split in half, showing this content on the left and the newly launched machine on the right.
+If you hide it later, you can always click on the Show Split View button at the top to display it again.
+You should see a browser window showing the website below:
+
