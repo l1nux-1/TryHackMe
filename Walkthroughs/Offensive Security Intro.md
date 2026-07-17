@@ -27,6 +27,18 @@ click on the Start Machine button below.
 Start Machine
 
 ![image alt](../Photos/1_9RePwHq1m6UWBfsSZYJqdA.webp)
+![image alt](../Photos/1_7inoH5cQlDHPEDlb9y5_-w.webp)
+
+Step 1: Open the Terminal
+The terminal (command line) lets users interact with the system without a GUI. Open it by clicking the Terminal icon on the right side of the screen.
+
+![image alt](../Photos/1_70lYJY3fBBtUyrES6GU5Yw.webp)
+
+Step 2: Use Gobuster to Find Hidden Pages
+Gobuster scans websites for hidden admin or sensitive pages that may be publicly accessible due to misconfiguration or human error, potentially exposing critical functions or data.
+
+'''text
+gobuster -u http://fakebank.thm -w wordlist.txt dir '''
 
 
 
