@@ -11,7 +11,7 @@ It involves breaking into systems, exploiting bugs, and finding loopholes — al
 
 — Answer the question below —
 
-Question 1: Which of the following options better represents the process where you simulate a hacker’s actions to find vulnerabilities in a system ?
+Q1 : Which of the following options better represents the process where you simulate a hacker’s actions to find vulnerabilities in a system ?
 
 > Offensive Security
 
@@ -71,6 +71,29 @@ You should have found a secret bank transfer page that allows you to transfer mo
 
 ![image alt](../Photos/1_p97mnIn4GX2r5QwCeXURrQ.webp)
 
+An attacker with access to this page can steal money from any account. Ethical hackers find such vulnerabilities (with permission) and report them to be fixed. Your task: transfer $2000 from account 2276 to account 8881 and verify your updated balance.
 
+![image alt](../Photos/1_JSygJ3AemIvXFsPVJizW4A.webp)
 
+— Answer the question below —
+
+Q1: Above your account balance, you should now see a message indicating the answer to this question. Can you find the answer you need?
+
+Answer: BANK-HACKED
+
+TASK 3 | Careers in cyber security
+
+How can I start learning Cybersecurity?
+Becoming a hacker (security consultant) or defender (security analyst) starts by choosing an area you like and practicing regularly. Using hands-on platforms like TryHackMe daily helps build skills and knowledge for your first job.
+
+Career Options in Offensive Security:
+Penetration Tester: Finds security weaknesses in products.
+Red Teamer: Simulates attacks to test defenses.
+Security Engineer: Designs and manages security systems to prevent attacks.
+
+![image alt](../https://github.com/l1nux-1/TryHackMe/blob/d530d3d5f398b1258777f761b6b0d568bc8a60d6/Photos/1_GCTW_0CNTNmyL6XkxEQznw.webp)
+
+Tryhackme | Offensive Security Intro !!! is done and dusted. I hope you liked the write-ups. If you did, Please give a positive response and drop a follow :)
+
+More walkthrough, room and CFT solutions are coming.
 
