@@ -1,0 +1,56 @@
+- TASK 1 -
+Ready to start!
+ANS: No answer needed
+
+-- TASK 2 --
+What is the name of the code that takes advantage of a flaw on the target system?
+ANS: Exploit
+
+What is the name of the code that runs on the target system after a successful exploit?
+ANS: Payload
+
+What type of payload is self-contained and does not require a second download?
+ANS: Singles
+
+What symbol in a payload's path name indicates it is a staged payload?
+ANS: /
+
+--- TASK 3 ---
+How would you search for all exploit modules related to Apache?
+ANS: search type:exploit apache
+
+You found an interesting module in your search results listed as index number 3. What command would you use to view detailed information about it?
+ANS: info 3
+
+What command would you use to go back from a module's context to the main `msf6 >` prompt?
+ANS: back
+
+---- TASK 4 ----
+How would you set the LPORT value to 6666?
+ANS: set LPORT 6666
+
+How would you set the global value for RHOSTS to 10.10.19.23?
+ANS: setg RHOSTS 10.10.19.23
+
+What command would you use to clear a set payload?
+ANS: unset PAYLOAD
+
+What command do you use to launch an exploit module?
+ANS: exploit
+
+You want to exploit a target but continue working in msfconsole immediately after the session opens. What flag do you add to the exploit command?
+ANS: -z
+
+----- TASK 5 -----
+What command do you use to background a Meterpreter session and return to the msfconsole prompt?
+ANS: background
+
+What flag do you use with the `sessions` command to interact with a specific session by ID?
+ANS: -i
+
+You have three active sessions. You need to terminate session 2 without affecting the others. What full command do you use?
+ANS: sessions -k 2
+
+------ TASK 6 ------
+Done!
+No answer needed
