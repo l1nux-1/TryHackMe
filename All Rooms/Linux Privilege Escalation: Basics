@@ -1,0 +1,26 @@
+Linux Privilege Escalation: Basics
+
+TASK 2
+
+What is the full path of the program that john can run with sudo?
+/usr/bin/nano
+
+What are the contents of /root/flag.txt?
+THM{SUDO-pwned-priv-esc}
+
+TASK 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
