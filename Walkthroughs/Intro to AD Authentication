@@ -1,0 +1,22 @@
+Intro to AD Authentication
+
+TASK 2
+
+What is the process called that proves your identity?
+Authentication
+
+What is the process called that determines what you are allowed to access?
+Authorisation
+
+TASK 3
+
+In NetNTLM, does the client authenticate directly to the domain controller or to the service they want to access?
+Service
+
+What is the name of the random value that the server sends to the client during NetNTLM authentication?
+Challenge
+
+What is the value of Flag 1 that you can recover from SHARE1?
+THM{5cbcc61a-3178-4220-88b4-367c1bbb48e7}
+
+TASK 4
