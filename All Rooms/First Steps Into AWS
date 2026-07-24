@@ -1,0 +1,50 @@
+First Steps Into AWS
+
+TASK 2
+
+I was able to access the AWS Console and the environment.
+No answer needed
+
+After you log in, what is the name of the account?
+LabRoom
+
+TASK 3
+
+What is the default region TryHackMe usually deploys lab environments in?
+us-east-1
+
+TASK 4
+
+What key names do you see when running the AWS equivalent of the whoami command (listed in alphabetical order)?
+Account,Arn,UserId
+
+TASK 5
+
+What is the first available command for the EC2 service?
+accept-address-transfer
+
+When you run the aws s3 ls command, what is the prefix of the S3 bucket that includes the current account ID?
+firststeps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
